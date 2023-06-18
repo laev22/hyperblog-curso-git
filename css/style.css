@@ -1,13 +1,13 @@
 .titulo {
     text-align: center;
-    font-family: Calibri;
+    font-family: Arial;
     color: crimson;
 }
 
 .content {
     text-align: center;
-    font-family: Calibri;
-    color: black;
+    font-family: Arial;
+    color: white;
     border: black solid;
     margin: 0 auto;
     padding: 0;
@@ -22,7 +22,7 @@
     color: aliceblue;
     font-weight: bold;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial;
     border-radius: 2px;
     width: 60%;
     height: 30px;
