@@ -1,0 +1,4 @@
+Esta es una prueba que se realiza desde la PC2 en el trbajo
+
+Con la finalidad de practicar lo aprendido en el curso de Git & GitHub
+
