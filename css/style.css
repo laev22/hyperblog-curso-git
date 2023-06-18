@@ -16,3 +16,18 @@
     width: 60%;
 
 }
+
+.cabecera {
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 2px;
+    width: 60%;
+    height: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
