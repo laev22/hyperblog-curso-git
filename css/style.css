@@ -1,5 +1,18 @@
-body {
+.titulo {
     text-align: center;
     font-family: Calibri;
     color: crimson;
+}
+
+.content {
+    text-align: center;
+    font-family: Calibri;
+    color: black;
+    border: black solid;
+    margin: 0 auto;
+    padding: 0;
+    border-radius: 4px;
+    background-color: brown;
+    width: 60%;
+
 }
